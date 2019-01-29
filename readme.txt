@@ -13,7 +13,7 @@ SFML -CLOCK project
 ->Make code blocks setup according to video.
 ->run code  i.e main file in order to edit code.
 ->You can run Application by clicking on icon "SFML Clock.exe - Shortcut" in Application Direct folder.
-->Check Youtube Video of this Project :
+->Check Youtube Video of this Project : https://youtu.be/-MMySoy1a3U
 
 Thanks
-M.ROHAN FAROOQUI ©
+M.ROHAN FAROOQUI Â©
