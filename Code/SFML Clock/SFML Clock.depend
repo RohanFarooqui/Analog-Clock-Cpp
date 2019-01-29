@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548708853 source:c:\users\rohan\desktop\sfml clock\sfml clock\main.cpp
+	<SFML\Graphics.hpp>
+	<SFML\Audio.hpp>
+	<cmath>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+
