@@ -16,4 +16,4 @@ SFML -CLOCK project
 ->Check Youtube Video of this Project : https://youtu.be/-MMySoy1a3U
 
 Thanks
-M.ROHAN FAROOQUI ©
+M.ROHAN FAROOQUI © LOL32
