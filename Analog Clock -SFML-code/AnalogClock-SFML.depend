@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1581446150 source:c:\users\m.rohan farooqui\desktop\analog clock -sfml\main.cpp
+	<SFML\Graphics.hpp>
+	<SFML\Audio.hpp>
+	<cmath>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+
+1581435560 c:\users\m.rohan farooqui\desktop\analog clock -sfml\header\clock.h
+	<SFML\Graphics.hpp>
+	<SFML\Audio.hpp>
+	<cmath>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+	"set_time.h"
+	"menu.h"
+	"clock.h"
+	"minute_table.h"
+	"credits.h"
+
+1581432417 c:\users\m.rohan farooqui\desktop\analog clock -sfml\header\set_time.h
+	<SFML\Graphics.hpp>
+	<SFML\Audio.hpp>
+	<cmath>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+	"set_time.h"
+	"menu.h"
+	"clock.h"
+	"minute_table.h"
+	"credits.h"
+
+1581435895 c:\users\m.rohan farooqui\desktop\analog clock -sfml\header\menu.h
+	"set_time.h"
+	"menu.h"
+	"clock.h"
+	"minute_table.h"
+	"credits.h"
+
+1581411141 c:\users\m.rohan farooqui\desktop\analog clock -sfml\header\minute_table.h
+	<SFML\Graphics.hpp>
+	<SFML\Audio.hpp>
+	<cmath>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+	"set_time.h"
+	"menu.h"
+	"clock.h"
+	"minute_table.h"
+	"credits.h"
+
+1581435964 c:\users\m.rohan farooqui\desktop\analog clock -sfml\header\credits.h
+	<SFML\Graphics.hpp>
+	<SFML\Audio.hpp>
+	<cmath>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+	"set_time.h"
+	"menu.h"
+	"clock.h"
+	"minute_table.h"
+	"credits.h"
+
