@@ -1,4 +1,4 @@
-![](https://github.com/LOL-32/Mini-Facebook-Cpp/blob/master/Images/screenshot_20180609_084909.png)
+![](https://github.com/LOL-32/Analog-Clock-Cpp/blob/master/sfml_clock.png)
 
 # **Analog Clock Cpp - SFML** :
 
