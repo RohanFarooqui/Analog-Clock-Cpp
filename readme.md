@@ -4,29 +4,34 @@
 
 ### **Description**:
 
-I created this project in **C++**. In normal __FaceBook__ we :
-* Login using User Name / Password.
-* Send friend requests.
-* Block a friend.
-* Like a page. 
+This Analog Clock which has Option like:
+* Show Time i.e Play.
+* Set Time.
+* Set Time to Default i.e 12:00
 
-etc.
 
 ### **Technologies** :
 * Language : C++.
-* File handling.
-* Folder handling.
+* For Gui i use SFML Library.
+* File Handling. (for saving Last time).
 
 ##### In order to run this code : 
-*install codeblock version 16.01.
-*Use SFML version 2.4.2 and Codeblocks 16.01.
-*Install SFML in Codeblocks. => Youtube Video Link : https://www.youtube.com/watch?v=-4hypE4W17k 
-*Make code blocks setup according to video.
-*run code  i.e main file in order to edit code.
-*run code  i.e main file in order to edit code.
-*You can run Application by clicking on icon "SFML Clock.exe - Shortcut" in Application Direct folder.
 
-Details            : 
+* install codeblock version 16.01.
+
+* Use SFML version 2.4.2 and Codeblocks 16.01.
+
+* Install SFML in Codeblocks. => Youtube Video Link : https://www.youtube.com/watch?v=-4hypE4W17k 
+
+* Make code blocks setup according to video.
+
+* run code  i.e main file in order to edit code.
+
+* run code  i.e main file in order to edit code.
+
+* You can run Application by clicking on icon "SFML Clock.exe - Shortcut" in Application Direct folder.
+
+Details            : https://rohanfarooqui.wordpress.com/2018/04/28/sfml-clock/
 
 Demo  video Link   : https://www.youtube.com/watch?v=2A-jQ81Ydao
 
