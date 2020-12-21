@@ -1,18 +1,14 @@
 ![](https://github.com/LOL-32/Analog-Clock-Cpp/blob/master/sfml_clock.png)
 
-# **Analog Clock - Sfml (C++)** :
+# **Analog Clock ** :
+
+### **Language** : C++ (GUI => SFML)
 
 ### **Description** :
 
-This Analog Clock which has Option like:
-* Show Time i.e Play.
-* Set Time.
-* Set Time to Default i.e 12:00
+Blog               : https://rohanfarooqui.wordpress.com/2018/04/28/sfml-clock/
 
-### **Libraries & Languages Used** :
-* Language : C++.
-* For Gui i use SFML Library.
-* File Handling. (for saving Last time).
+Demo (video Link)  : https://www.youtube.com/watch?v=2A-jQ81Ydao
 
 ### **To Run this Code** :
 
@@ -30,9 +26,4 @@ This Analog Clock which has Option like:
 
 * You can run Application by clicking on icon "SFML Clock.exe - Shortcut" in Application Direct folder.
 
-### **Other Details** :
-
-Blog               : https://rohanfarooqui.wordpress.com/2018/04/28/sfml-clock/
-
-Demo (video Link)  : https://www.youtube.com/watch?v=2A-jQ81Ydao
 
