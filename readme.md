@@ -1,6 +1,6 @@
 ![](https://github.com/LOL-32/Analog-Clock-Cpp/blob/master/sfml_clock.png)
 
-# **Analog Clock ** :
+# **Analog Clock** :
 
 ### **Language** : C++ (GUI => SFML)
 
