@@ -6,7 +6,6 @@
 
 ### **Description** :
 
-Blog               : https://rohanfarooqui.wordpress.com/2018/04/28/sfml-clock/
 
 Demo (video Link)  : https://www.youtube.com/watch?v=2A-jQ81Ydao
 
